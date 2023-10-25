@@ -1,1 +1,4 @@
 # Image_classify
+Final Draft of my ai-ml project using tensorflow,keras through cnn
+Dataset : CIFAR10 (60,000 images of 10 classes)
+accuracy : 82% for 50 epoch
